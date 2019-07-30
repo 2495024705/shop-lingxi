@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-auth/lingxi-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-auth/lingxi-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-shop-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-user/lingxi-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service" charset="UTF-8" />
+  </component>
+</project>

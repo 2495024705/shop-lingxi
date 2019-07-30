@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lingxi-shop-item-interface" />
+        <module name="lingxi-shop-item-service" />
+        <module name="lingxi-user-service" />
+        <module name="lingxi-shop-upload" />
+        <module name="lingxi-shop-common" />
+        <module name="lingxi-order" />
+        <module name="lingxi-sms" />
+        <module name="lingxi-shop-cart" />
+        <module name="lingxi-auth-service" />
+        <module name="lingxi-user-interface" />
+        <module name="lingxi-auth-common" />
+        <module name="lingxi-shop-eureka" />
+        <module name="lingxi-search" />
+        <module name="lingxi-page" />
+        <module name="lingxi-portal" />
+        <module name="lingxi-shop-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lingxi-auth" target="1.8" />
+      <module name="lingxi-auth-common" target="1.8" />
+      <module name="lingxi-auth-service" target="1.8" />
+      <module name="lingxi-order" target="1.8" />
+      <module name="lingxi-page" target="1.8" />
+      <module name="lingxi-portal" target="1.8" />
+      <module name="lingxi-search" target="1.8" />
+      <module name="lingxi-shop-cart" target="1.8" />
+      <module name="lingxi-shop-common" target="1.8" />
+      <module name="lingxi-shop-eureka" target="1.8" />
+      <module name="lingxi-shop-item" target="1.8" />
+      <module name="lingxi-shop-item-interface" target="1.8" />
+      <module name="lingxi-shop-item-service" target="1.8" />
+      <module name="lingxi-shop-parent" target="1.8" />
+      <module name="lingxi-shop-upload" target="1.8" />
+      <module name="lingxi-shop-zuul" target="1.8" />
+      <module name="lingxi-sms" target="1.8" />
+      <module name="lingxi-user" target="1.8" />
+      <module name="lingxi-user-interface" target="1.8" />
+      <module name="lingxi-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lingxi-auth" options="-parameters" />
+      <module name="lingxi-auth-common" options="-parameters" />
+      <module name="lingxi-auth-service" options="-parameters" />
+      <module name="lingxi-order" options="-parameters" />
+      <module name="lingxi-page" options="-parameters" />
+      <module name="lingxi-portal" options="-parameters" />
+      <module name="lingxi-search" options="-parameters" />
+      <module name="lingxi-shop-cart" options="-parameters" />
+      <module name="lingxi-shop-common" options="-parameters" />
+      <module name="lingxi-shop-eureka" options="-parameters" />
+      <module name="lingxi-shop-item-interface" options="-parameters" />
+      <module name="lingxi-shop-item-service" options="-parameters" />
+      <module name="lingxi-shop-upload" options="-parameters" />
+      <module name="lingxi-shop-zuul" options="-parameters" />
+      <module name="lingxi-sms" options="-parameters" />
+      <module name="lingxi-user" options="-parameters" />
+      <module name="lingxi-user-interface" options="-parameters" />
+      <module name="lingxi-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

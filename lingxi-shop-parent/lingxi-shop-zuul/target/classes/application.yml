@@ -1,0 +1,57 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: lingxi-shop-zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 5
+  instance:
+      lease-expiration-duration-in-seconds: 10
+      lease-renewal-interval-in-seconds: 5
+      prefer-ip-address: true
+      instance-id: 127.0.0.1:${server.port}
+zuul:
+  prefix: /api
+  routes:
+    lingxi-shop-item-service: /item/**
+    lingxi-shop-search: /search/**
+    lingxi-shop-upload:
+      path: /upload/**
+      serviceId: lingxi-shop-upload
+      strip-prefix: false
+    lingxi-shop-user-service: /user/**
+    auth-service: /auth/**
+    cart-service: /cart/**
+    order-service: /order-service/**
+  add-host-header: true
+  sensitive-headers:
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 7000
+ribbon:
+  connetTimeout: 100000
+  readTimeout: 50000
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+ly:
+  jwt:
+    pubKeyPath: D:/ideahome/sa/ideahomersa.pub # 公钥地址
+    cookieName: LY_TOKEN
+  filter:
+    allowPaths:
+      - /api/auth
+      - /api/search
+      - /api/user/register
+      - /api/user/check
+      - /api/user/code
+      - /api/item
+
+
+

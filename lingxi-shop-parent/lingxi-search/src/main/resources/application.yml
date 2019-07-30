@@ -1,0 +1,26 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: lingxi-shop-search
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 192.168.26.33:9300
+  jackson:
+    default-property-inclusion: non_null
+  rabbitmq:
+    addresses: 192.168.26.33
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 5
+  instance:
+    lease-expiration-duration-in-seconds: 10
+    lease-renewal-interval-in-seconds: 5
+    prefer-ip-address: true
+    instance-id: 127.0.0.1:${server.port}

@@ -1,0 +1,31 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: lingxi-shop-item-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/lingxi
+    username: root
+    password: root
+    hikari:
+      maximum-pool-size: 30
+      minimum-idle: 10
+    driver-class-name: com.mysql.jdbc.Driver
+  rabbitmq:
+    host: 192.168.26.33
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registryFetchIntervalSeconds: 5
+
+  instance:
+    prefer-ip-address: true
+    instance-id: 127.0.0.1:${server.port}
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

@@ -1,0 +1,23 @@
+server:
+  port: 10086
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: 127.0.0.1:${server.port}
+spring:
+  application:
+    name: lingxi-shop-eureka
+  datasource:
+    url: jdbc:mysql://localhost:3306/lingxi?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+    hikari:
+      maximum-pool-size: 30
+      minimum-idle: 10
+    driver-class-name: com.mysql.jdbc.Driver
+

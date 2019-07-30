@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lingxi-auth/lingxi-auth.iml" filepath="$PROJECT_DIR$/lingxi-auth/lingxi-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-auth/lingxi-auth-common/lingxi-auth-common.iml" filepath="$PROJECT_DIR$/lingxi-auth/lingxi-auth-common/lingxi-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-auth/lingxi-auth-service/lingxi-auth-service.iml" filepath="$PROJECT_DIR$/lingxi-auth/lingxi-auth-service/lingxi-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-order/lingxi-order.iml" filepath="$PROJECT_DIR$/lingxi-order/lingxi-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-page/lingxi-page.iml" filepath="$PROJECT_DIR$/lingxi-page/lingxi-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-portal/lingxi-portal.iml" filepath="$PROJECT_DIR$/lingxi-portal/lingxi-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-search/lingxi-search.iml" filepath="$PROJECT_DIR$/lingxi-search/lingxi-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-cart/lingxi-shop-cart.iml" filepath="$PROJECT_DIR$/lingxi-shop-cart/lingxi-shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-common/lingxi-shop-common.iml" filepath="$PROJECT_DIR$/lingxi-shop-common/lingxi-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-eureka/lingxi-shop-eureka.iml" filepath="$PROJECT_DIR$/lingxi-shop-eureka/lingxi-shop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item.iml" filepath="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/lingxi-shop-item-interface.iml" filepath="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/lingxi-shop-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/lingxi-shop-item-service.iml" filepath="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/lingxi-shop-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lingxi-shop-parent.iml" filepath="$PROJECT_DIR$/.idea/lingxi-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-upload/lingxi-shop-upload.iml" filepath="$PROJECT_DIR$/lingxi-shop-upload/lingxi-shop-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-shop-zuul/lingxi-shop-zuul.iml" filepath="$PROJECT_DIR$/lingxi-shop-zuul/lingxi-shop-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-sms/lingxi-sms.iml" filepath="$PROJECT_DIR$/lingxi-sms/lingxi-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-user/lingxi-user.iml" filepath="$PROJECT_DIR$/lingxi-user/lingxi-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-user/lingxi-user-interface/lingxi-user-interface.iml" filepath="$PROJECT_DIR$/lingxi-user/lingxi-user-interface/lingxi-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service/lingxi-user-service.iml" filepath="$PROJECT_DIR$/lingxi-user/lingxi-user-service/lingxi-user-service.iml" />
+    </modules>
+  </component>
+</project>

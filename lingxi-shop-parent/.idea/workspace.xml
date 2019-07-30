@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a01285d-7396-414e-b21a-99803cc226ee" name="Default" comment="" />
+    <ignored path="lingxi-shop-parent.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-item/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-itemx/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-upload/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-portal/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-search/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-page/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-sms/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-user/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-user/lingxi-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-user/lingxi-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-auth/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-auth/lingxi-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-auth/lingxi-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-shop-cart/target/" />
+    <ignored path="$PROJECT_DIR$/lingxi-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lingxi-shop-parent$EurekaApplication.coverage" NAME="EurekaApplication Coverage Results" MODIFIED="1553922421652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lingxi-shop-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lingxi-portal/home-person-collect.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2262" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lingxi-portal/home-setting-address-phone.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4122">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/service/SpeccificationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsAPplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/main/java/shop/lingxi/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>api</find>
+      <find>home.html</find>
+      <find>尊敬的</find>
+      <find>image</find>
+      <find>leyou</find>
+      <find>loadCart</find>
+      <find>cart-list</find>
+      <find>我的乐优</find>
+      <find>addCart</find>
+      <find>送货清单</find>
+      <find>192.168.82.100</find>
+      <find>结算</find>
+      <find>乐优</find>
+      <find>我的购物车</find>
+      <find>queryGroupByCid</find>
+      <find>点击取消选择</find>
+      <find>title</find>
+      <find>spu</find>
+      <find>specialSpec</find>
+      <find>comput</find>
+      <find>groups</find>
+      <find>Ptable-item</find>
+      <find>specGroups</find>
+      <find>params</find>
+      <find>images</find>
+      <find>find</find>
+      <find>loadCarts</find>
+      <find>increment</find>
+      <find>carts</find>
+      <find>All</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&gt;</replace>
+      <replace>www.lingxi.com</replace>
+      <replace>lingxi.com</replace>
+      <replace>灵溪</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lingxi-portal/home.html" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/pojo/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/interceptor/UserInterceptor.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/dto/OrderDto.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/dto/CartDto.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/mapper/PayLogMapper.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/client/AddressClient.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/client/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/mapper/OrderDetailMapper.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/mapper/OrderStatusMapper.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/service/PayLogService.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/enums/OrderStatusEnum.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/mapper/StockMapper.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/config/PayConfig.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/config/PayConfiguration.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/pojo/CartDto.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/utils/PayHelper.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/web/GoodsController.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/test/java/lingxi/shop/item/service/SpecServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/pom.xml" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/utils/IdWorker.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-cart/src/main/java/lingxi/shop/cart/web/CartController.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lingxi-shop-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lingxi-shop-common/src/main/java/lingxi/shop/common/enums/ExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/lingxi-portal/index.html" />
+        <option value="$PROJECT_DIR$/lingxi-portal/js/pages/top.js" />
+        <option value="$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsListener.java" />
+        <option value="$PROJECT_DIR$/lingxi-sms/src/test/java/lingxi/lingxi/sms/Test.java" />
+        <option value="$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/main/java/shop/lingxi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-upload/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lingxi-search/src/main/java/lingxi/shop/search/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/service/SpeccificationService.java" />
+        <option value="$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/pojo/Spu.java" />
+        <option value="$PROJECT_DIR$/lingxi-page/src/main/java/lingxi/shop/page/service/PageService.java" />
+        <option value="$PROJECT_DIR$/lingxi-page/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/lingxi-portal/cart.html" />
+        <option value="$PROJECT_DIR$/lingxi-portal/getOrderInfo.html" />
+        <option value="$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsAPplication.java" />
+        <option value="$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/main/java/shop/lingxi/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lingxi-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lingxi-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lingxi-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+          <item name="lingxi-page" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lingxi-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Modules" type="87271259:MavenProjectsStructure$ModulesNode" />
+          <item name="lingxi-page" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="781" />
+    <option name="y" value="50" />
+    <option name="width" value="1115" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType PackagesPane="true" />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-search" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-search" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lingxi-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lingxi-shop-parent" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lingxi-shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lingxi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun Dashboard.ShowToolbar" value="false" />
+    <property name="ToolWindowSpring.ShowToolbar" value="false" />
+    <property name="ToolWindowTODO.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/lingxi-search/src/main/java/lingxi/shop/search" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lingxi-portal" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48390806" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lingxi.shop.order.dto" />
+      <recent name="lingxi.auth.service" />
+      <recent name="lingxi.shop.search.service" />
+      <recent name="lingxi.shop.item.mapper" />
+      <recent name="lingxi.shop.item.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lingxi.shop.search.repository" />
+      <recent name="lingxi.shop.search.client" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="lingxi.shop.search.client.CategoryClientTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="shop.lingxi" />
+      <recent name="lingxi.shop.item.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-portal" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-page\src\main\resources\templates" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-order\src\main\java\lingxi\shop\order\config" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-order\src\main\java\lingxi\shop\order\utils" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-order\src\main\java\lingxi\shop\order" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lingxi.shop.order.utils" />
+      <recent name="lingxi.shop.item.pojo" />
+      <recent name="lingxi.shop.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-user" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-shop-common\src\main\java\lingxi\shop\common\utils" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-shop-eureka\src\main\resources" />
+      <recent name="D:\ideahome\lingxi-shop-parent\lingxi-shop-eureka\src\main\resources\dev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2629797" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SmsAPplication">
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GoodsRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lingxi-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lingxi.shop.search.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lingxi.shop.search.repository" />
+      <option name="MAIN_CLASS_NAME" value="lingxi.shop.search.repository.GoodsRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsRepositoryTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lingxi-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lingxi.shop.search.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lingxi.shop.search.repository" />
+      <option name="MAIN_CLASS_NAME" value="lingxi.shop.search.repository.GoodsRepositoryTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lingxi-shop-eureka" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="dev" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/lingxi-shop-eureka" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lingxi-shop-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lingxi.shop.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.cart.CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="lingxi-shop-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.eureka.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-shop-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.item.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LingxiAutoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.auth.LingxiAutoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.PageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsAPplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lingxi-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lingxi.lingxi.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.lingxi.sms.SmsAPplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingxi-shop-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.upload.UploadApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lingxi-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shop.lingxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="shop.lingxi.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="lingxi-shop-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lingxi.shop.ZuulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GoodsRepositoryTest" />
+      <item itemvalue="JUnit.GoodsRepositoryTest.test1" />
+      <item itemvalue="Maven.lingxi-shop-eureka" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.UploadApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.PageApplication" />
+      <item itemvalue="Spring Boot.ItemServiceApplication" />
+      <item itemvalue="Spring Boot.LingxiAutoApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.SmsAPplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SmsAPplication" />
+        <item itemvalue="Spring Boot.CartApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="JUnit.GoodsRepositoryTest" />
+        <item itemvalue="JUnit.GoodsRepositoryTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a01285d-7396-414e-b21a-99803cc226ee" name="Default" comment="" />
+      <created>1553918157899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553918157899</updated>
+      <workItem from="1553918159146" duration="141000" />
+      <workItem from="1553918334752" duration="2435000" />
+      <workItem from="1553920789443" duration="1184000" />
+      <workItem from="1553922024285" duration="20000" />
+      <workItem from="1553922192364" duration="20000" />
+      <workItem from="1553922228532" duration="83000" />
+      <workItem from="1553922369252" duration="291000" />
+      <workItem from="1553925799125" duration="188000" />
+      <workItem from="1553926006468" duration="1043000" />
+      <workItem from="1553927120787" duration="300000" />
+      <workItem from="1553927439676" duration="1816000" />
+      <workItem from="1553929282676" duration="2646000" />
+      <workItem from="1553932580909" duration="434000" />
+      <workItem from="1553933040279" duration="600000" />
+      <workItem from="1553933659848" duration="123000" />
+      <workItem from="1553933804625" duration="540000" />
+      <workItem from="1553934364529" duration="282000" />
+      <workItem from="1553935352548" duration="173000" />
+      <workItem from="1553935656284" duration="47000" />
+      <workItem from="1553936248255" duration="55000" />
+      <workItem from="1553936319833" duration="356000" />
+      <workItem from="1553936700762" duration="2925000" />
+      <workItem from="1553953205578" duration="6762000" />
+      <workItem from="1553959992890" duration="162000" />
+      <workItem from="1553960176967" duration="100000" />
+      <workItem from="1553994108802" duration="988000" />
+      <workItem from="1553995137479" duration="50000" />
+      <workItem from="1553995211620" duration="5324000" />
+      <workItem from="1554014698849" duration="2959000" />
+      <workItem from="1554027571607" duration="67000" />
+      <workItem from="1554117879005" duration="331000" />
+      <workItem from="1554118237454" duration="4631000" />
+      <workItem from="1554169665792" duration="16537000" />
+      <workItem from="1554380276930" duration="6739000" />
+      <workItem from="1554429024336" duration="4975000" />
+      <workItem from="1554434081341" duration="1160000" />
+      <workItem from="1554456392030" duration="1535000" />
+      <workItem from="1554458072074" duration="454000" />
+      <workItem from="1554461467824" duration="279000" />
+      <workItem from="1554526583914" duration="1621000" />
+      <workItem from="1554532944056" duration="41912000" />
+      <workItem from="1555211006540" duration="771000" />
+      <workItem from="1555248137218" duration="950000" />
+      <workItem from="1555846538211" duration="1691000" />
+      <workItem from="1555850696813" duration="34760000" />
+      <workItem from="1556101040052" duration="7252000" />
+      <workItem from="1556115069730" duration="69691000" />
+      <workItem from="1556699158287" duration="3002000" />
+      <workItem from="1556720839355" duration="58000" />
+      <workItem from="1556765194626" duration="17000" />
+      <workItem from="1556786164940" duration="8000" />
+      <workItem from="1556786230654" duration="701000" />
+      <workItem from="1556786958948" duration="356000" />
+      <workItem from="1556787336965" duration="329000" />
+      <workItem from="1556799161137" duration="828000" />
+      <workItem from="1556800011921" duration="8504000" />
+      <workItem from="1556857233859" duration="5297000" />
+      <workItem from="1556956508587" duration="1760000" />
+      <workItem from="1556962143777" duration="153000" />
+      <workItem from="1556962320893" duration="131000" />
+      <workItem from="1556962453906" duration="2227000" />
+      <workItem from="1557413990238" duration="85000" />
+      <workItem from="1557452887324" duration="3351000" />
+      <workItem from="1557634408531" duration="4326000" />
+      <workItem from="1557664384491" duration="63000" />
+      <workItem from="1557669508054" duration="631000" />
+      <workItem from="1557670768759" duration="1327000" />
+      <workItem from="1557674448870" duration="2579000" />
+      <workItem from="1557726994023" duration="9887000" />
+      <workItem from="1557743310067" duration="4507000" />
+      <workItem from="1557811164670" duration="11427000" />
+      <workItem from="1557826808398" duration="463000" />
+      <workItem from="1557827299796" duration="552000" />
+      <workItem from="1557827883763" duration="9685000" />
+      <workItem from="1557898696201" duration="12371000" />
+      <workItem from="1557994849419" duration="2877000" />
+      <workItem from="1557997761100" duration="13363000" />
+      <workItem from="1558086950281" duration="9183000" />
+      <workItem from="1558145927587" duration="30892000" />
+      <workItem from="1558345650130" duration="5101000" />
+      <workItem from="1558415981157" duration="5876000" />
+      <workItem from="1558522910890" duration="2407000" />
+      <workItem from="1558525668610" duration="3373000" />
+      <workItem from="1558529967982" duration="35000" />
+      <workItem from="1558530048362" duration="1513000" />
+      <workItem from="1558578352598" duration="12199000" />
+      <workItem from="1558765592373" duration="5992000" />
+      <workItem from="1558773846200" duration="185000" />
+      <workItem from="1559651568541" duration="4253000" />
+      <workItem from="1559695340470" duration="16946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GoodsRepositoryTest_test1 - 2019.05.25 at 14h 44m 27s.xml">
+      <configuration name="GoodsRepositoryTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testsend - 2019.05.25 at 15h 21m 45s.xml">
+      <configuration name="Test.testsend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testsend - 2019.05.25 at 15h 26m 41s.xml">
+      <configuration name="Test.testsend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testsend - 2019.05.25 at 15h 27m 45s.xml">
+      <configuration name="Test.testsend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testsend - 2019.05.25 at 15h 36m 22s.xml">
+      <configuration name="Test.testsend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2019.05.25 at 15h 37m 38s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsRepositoryTest - 2019.06.04 at 20h 48m 35s.xml">
+      <configuration name="GoodsRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsRepositoryTest_LoadData - 2019.06.04 at 21h 13m 18s.xml">
+      <configuration name="GoodsRepositoryTest.LoadData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsRepositoryTest_test1 - 2019.06.04 at 21h 16m 03s.xml">
+      <configuration name="GoodsRepositoryTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsRepositoryTest - 2019.06.04 at 21h 23m 45s.xml">
+      <configuration name="GoodsRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="426323000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.32977587" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32977587" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5007704" side_tool="true" weight="0.30683032" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info auto_hide="true" content_ui="combo" x="732" y="267" width="456" height="505" id="Project" order="7" sideWeight="0.49922958" weight="0.25400212" />
+      <window_info anchor="bottom" id="TODO" order="0" weight="0.32761905" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49519745" weight="0.34860334" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.6315789" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Problems" order="5" weight="0.32562277" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5131195" side_tool="true" weight="0.4485842" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49786553" weight="0.27486032" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3295238" />
+      <window_info anchor="bottom" x="848" y="446" width="987" height="213" id="Run" order="9" sideWeight="0.6112731" weight="0.58882684" />
+      <window_info anchor="bottom" auto_hide="true" id="Spring" internal_type="SLIDING" order="10" type="SLIDING" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.60335195" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.48688048" visible="true" weight="0.36871508" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.24949698" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32870865" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.51492536" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.5384205" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.32977587" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32977587" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5007704" side_tool="true" weight="0.30683032" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info auto_hide="true" content_ui="combo" x="732" y="267" width="456" height="505" id="Project" order="7" sideWeight="0.49922958" weight="0.2701923" />
+      <window_info anchor="bottom" id="TODO" order="0" weight="0.32761905" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49519745" weight="0.34860334" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.43575418" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Problems" order="5" weight="0.32562277" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5131195" side_tool="true" weight="0.4485842" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49786553" weight="0.6268156" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3295238" />
+      <window_info anchor="bottom" x="848" y="446" width="987" height="213" id="Run" order="9" sideWeight="0.6112731" weight="0.40223464" />
+      <window_info anchor="bottom" auto_hide="true" id="Spring" internal_type="SLIDING" order="10" type="SLIDING" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.60335195" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.48688048" visible="true" weight="0.3474026" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.24949698" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32870865" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.51492536" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.5389541" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsUtil.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((HashMap.Node)((HashMap)attributes).entrySet().toArray()[0]).getValue()" custom="java.util.HashMap.Node,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lingxi_shop_parent$LingXiUserApplication.ic" NAME="LingXiUserApplication Coverage Results" MODIFIED="1557826597732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>shop.lingxi.user.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/utils/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/utils/PayHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/data/spring-data-elasticsearch/3.0.9.RELEASE/spring-data-elasticsearch-3.0.9.RELEASE.jar!/org/springframework/data/elasticsearch/core/ElasticsearchTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
+          <folding>
+            <element signature="e#8994#8995#0" expanded="true" />
+            <element signature="e#9052#9053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/interceptor/UserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-common/src/main/java/lingxi/shop/common/enums/ExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3114">
+          <caret line="200" column="9" selection-start-line="200" selection-start-column="9" selection-end-line="200" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/pay2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/java/lingxi/shop/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2826">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/img/Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/web/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/web/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/amqp/spring-amqp/2.0.5.RELEASE/spring-amqp-2.0.5.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/test/java/lingxi/lingxi/sms/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/test/java/shop/lingxi/test/TestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-search/src/test/java/lingxi/shop/search/repository/GoodsRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-upload/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-upload/src/main/java/lingxi/shop/upload/UploadApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/main/java/shop/lingxi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-search/src/main/java/lingxi/shop/search/web/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-search/src/main/java/lingxi/shop/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-search/src/main/java/lingxi/shop/search/SearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/pojo/SpecGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-page/src/main/java/lingxi/shop/page/client/SpecClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/api/SpecApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/web/SpeccificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-interface/src/main/java/lingxi/shop/item/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-page/src/main/resources/templates/js/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-cart/src/main/java/lingxi/shop/cart/CartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-cart/src/main/java/lingxi/shop/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-cart/src/main/java/lingxi/shop/cart/web/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-page/src/main/java/lingxi/shop/page/service/PageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-page/src/main/resources/templates/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="648" lean-forward="true" selection-start-line="647" selection-start-column="35" selection-end-line="648" />
+          <folding>
+            <element signature="e#7108#7114#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/css/pages-cart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/getOrderInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="138" column="54" lean-forward="true" selection-start-line="136" selection-start-column="48" selection-end-line="138" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/home-person-collect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2262" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1569">
+          <caret line="321" column="27" lean-forward="true" selection-start-line="321" selection-start-column="27" selection-end-line="321" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-portal/home-setting-address-phone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4122">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-shop-item/lingxi-shop-item-service/src/main/java/lingxi/shop/item/service/SpeccificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-sms/src/main/java/lingxi/lingxi/sms/SmsAPplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lingxi-user/lingxi-user-service/src/main/java/shop/lingxi/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>lingxi-shop-zuul:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lingxi-order</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48390806" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
